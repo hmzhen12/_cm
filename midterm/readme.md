@@ -1,4 +1,5 @@
 # Prime Number Analysis & Simple Cryptography
+I used AI to help me to do this project. So, this is the reference form ChatGPT: https://chatgpt.com/share/6956aaa3-8d0c-800c-bb0c-fa9f8b476ae9
 
 ## Project Description
 This project performs **prime number analysis**, **probabilistic primality testing**, and demonstrates a **basic RSA cryptosystem**.  
