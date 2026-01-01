@@ -67,13 +67,9 @@ This project is suitable for learning **number theory**, **cryptography basics**
 
 ---
 
-##References
-Rivest, R., Shamir, A., & Adleman, L. (1978). A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. Communications of the ACM, 21(2), 120–126.
-
-Crandall, R., & Pomerance, C. (2005). Prime Numbers: A Computational Perspective. Springer.
-
-Menezes, A., van Oorschot, P., & Vanstone, S. (1996). Handbook of Applied Cryptography. CRC Press.
-
-Python math module documentation: (https://docs.python.org/3/library/math.html)
-
-Miller-Rabin primality test: (https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) 
+## References
+1. Rivest, R., Shamir, A., & Adleman, L. (1978). A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. Communications of the ACM, 21(2), 120–126.
+2. Crandall, R., & Pomerance, C. (2005). Prime Numbers: A Computational Perspective. Springer.
+3. Menezes, A., van Oorschot, P., & Vanstone, S. (1996). Handbook of Applied Cryptography. CRC Press.
+4. Python math module documentation: (https://docs.python.org/3/library/math.html)
+5. Miller-Rabin primality test: (https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) 
