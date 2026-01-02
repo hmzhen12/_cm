@@ -3,6 +3,7 @@
 ### 習題 1: 請用程式驗證微積分基本定理
 
 [Homework 1](https://github.com/hmzhen12/_cm/tree/main/HW1)
+
 使用[Chatgpt](https://chatgpt.com/share/6907222d-b538-800c-bf0c-b081779c73ca)協助debug
 
 ### 習題 2:  請寫程式求解二次多項式的根
