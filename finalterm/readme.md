@@ -9,56 +9,67 @@
 ### 習題 2:  請寫程式求解二次多項式的根
 
 [Homework 2](https://github.com/hmzhen12/_cm/tree/main/HW2)
+
 使用[Chatgpt](https://chatgpt.com/share/690720b5-62d8-800c-9de2-bce2935d4534)協助debug
 
 ### 習題 3 : 請寫程式求解三次多項式的根 (加分題）
 
 [Homework 3](https://github.com/hmzhen12/_cm/tree/main/HW3)
+
 使用[Chatgpt](https://chatgpt.com/share/69072589-6264-800c-9dd5-bc6c9a7efb5c)協助debug
 
 ### 習題4： （思考）請寫一個函數 root(c) 求出 n 次多項式的根 （ n>=5 的時候，數學上證明沒有公式 -- 伽羅瓦定理）
 
 [Homework 4](https://github.com/hmzhen12/_cm/tree/main/HW4)
+
 使用[Chatgpt](https://chatgpt.com/share/69072941-f6fc-800c-9a8d-d189eeb783d1)協助debug
 
 ### 習題5: 有限體
 
 [Homework 5](https://github.com/hmzhen12/_cm/tree/main/HW5)
+
 使用[Chatgpt](https://chatgpt.com/share/69157786-90d8-800c-ae9c-106f40d3b1fe)
 
 ### 習題6: 幾何學：（點，線，圓）世界的建構 
 
 [Homework 6](https://github.com/hmzhen12/_cm/tree/main/HW6)
+
 使用[Google Gemini](https://gemini.google.com/share/9396039db10a)協助debug
 
 ### 習題7: 機率統計 - 檢定背後的數學原理
 
 [Homework 7](https://gemini.google.com/share/7088a27c6312)
+
 使用Google Gemini問答，理解 z 檢定與 t 檢定背後的數學原理 (包含公式是如何推導出來的）
 
 ### 習題8: 資訊理論
 
 [Homework 8](https://github.com/hmzhen12/_cm/tree/main/HW8)
+
 使用[Chatgpt](https://chatgpt.com/share/69579384-d95c-800c-a1b9-ad8312a83bc0)
 
 ### 習題9: 線性代數
 
 [Homework 9](https://github.com/hmzhen12/_cm/tree/main/HW9)
+
 使用[Chatgpt](https://chatgpt.com/share/69579546-23f4-800c-ad4d-2811e4e69a87)
 
 ### 習題10: 請寫出傅立葉正轉換和逆轉換的函數（不要用套件）
 
 [Homework 10](https://github.com/hmzhen12/_cm/tree/main/HW10)
+
 使用[Chatgpt](https://chatgpt.com/share/69579dd7-f410-8006-96e9-9f5f4ffe18d8)
 
 ### 習題11: 請寫程式求解常係數齊次常微分方程
 
 [Homework 11](https://github.com/hmzhen12/_cm/tree/main/HW11)
+
 使用[Chatgpt](https://chatgpt.com/share/6957a4e5-da98-8006-b33c-7fc727836a41)
 
 ### 期中作業
 
 [Midterm](https://github.com/hmzhen12/_cm/tree/main/midterm)
+
 使用[Chatgpt](https://chatgpt.com/share/69072941-f6fc-800c-9a8d-d189eeb783d1)
 # Prime Number Analysis & Simple Cryptography
 I used AI to help me to do this project. So, this is the reference form ChatGPT: https://chatgpt.com/share/6956aaa3-8d0c-800c-bb0c-fa9f8b476ae9
